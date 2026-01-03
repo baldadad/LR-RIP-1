@@ -1,0 +1,12 @@
+com\example\lab1\model\Step.class
+com\example\lab1\model\Category.class
+com\example\lab1\controller\StepController.class
+com\example\lab1\controller\RecipeController.class
+com\example\lab1\repository\RecipeRepository.class
+com\example\lab1\repository\StepRepository.class
+com\example\lab1\repository\CategoryRepository.class
+com\example\lab1\Lab1Application.class
+com\example\lab1\repository\IngredientRepository.class
+com\example\lab1\model\Recipe.class
+com\example\lab1\model\Ingredient.class
+com\example\lab1\controller\CategoryController.class
